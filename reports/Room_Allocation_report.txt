@@ -1,0 +1,16 @@
+CONSTRAINTCRAFT REPORT
+======================
+Problem: Room_Allocation
+Entities: 3
+Resources: 3
+
+Constraints:
+- Digital logic must use resource 1
+- Java must use resource 2
+
+Result: VALID SOLUTION FOUND
+Digital logic -> Resource 1
+Java -> Resource 2
+OS -> Resource 3
+Backtracking attempts: 3
+Execution time: 54775800 ns

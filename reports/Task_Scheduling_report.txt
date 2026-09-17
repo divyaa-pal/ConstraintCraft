@@ -1,0 +1,16 @@
+CONSTRAINTCRAFT REPORT
+======================
+Problem: Task_Scheduling
+Entities: 3
+Resources: 3
+
+Constraints:
+- Study must be before Assignment
+- Assignment must be before Revision
+
+Result: VALID SOLUTION FOUND
+Study -> Resource 1
+Assignment -> Resource 2
+Revision -> Resource 3
+Backtracking attempts: 3
+Execution time: 120477700 ns

@@ -1,0 +1,17 @@
+CONSTRAINTCRAFT REPORT
+======================
+Problem: Exam_Seating
+Entities: 4
+Resources: 4
+
+Constraints:
+- A cannot be beside B
+- C must be beside D
+
+Result: VALID SOLUTION FOUND
+A -> Resource 1
+B -> Resource 4
+C -> Resource 2
+D -> Resource 3
+Backtracking attempts: 10
+Execution time: 35138000 ns
