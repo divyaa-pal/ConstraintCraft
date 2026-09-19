@@ -45,7 +45,9 @@ User Input → Validation → Constraint Management → Conflict Detection → B
 
 ## 📂 Project Structure
 
+
 ConstraintCraft/
+│
 ├── src/
 │   ├── Main.java
 │   ├── model/
@@ -54,18 +56,22 @@ ConstraintCraft/
 │   ├── scenario/
 │   ├── exception/
 │   └── util/
+│
 ├── docs/
 │   ├── UseCaseDiagram.png
 │   ├── ClassDiagram.png
 │   ├── ComponentDiagram.png
 │   └── SequenceDiagram.png
+│
 ├── screenshots/
 │   ├── ExamSeating.png
 │   ├── RoomAllocation.png
 │   ├── TaskScheduling.png
 │   └── ConflictDetection.png
+│
 ├── tests/
 │   └── TestCases.md
+│
 ├── reports/
 ├── data/
 ├── README.md
